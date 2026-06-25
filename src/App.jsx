@@ -5,7 +5,7 @@ import heroImg from './assets/hero.png'
 import './App.css'
 import { Home } from './components/Home'
 import { Collection } from './components/Collection'
-import { About } from './components/about'
+import { About } from './components/About'
 import { Contact } from './components/Contact'
 import { Routes,Route} from 'react-router-dom'
 
